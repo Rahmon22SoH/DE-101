@@ -37,9 +37,21 @@
 
 2. Аналитика в Excel
    В данном разделе реализованны следующие Dashboard
-  - Динамика дохода и прибыли, а также процент возврата.
-     
-   ![image](https://github.com/user-attachments/assets/abf2124b-3162-4ed5-9791-75d81507bbf7)
+  - Динамика продаж и прибыли, а также процент возврата за весь переуд времени.
+
+    ![image](https://github.com/user-attachments/assets/31f48cb7-2f1f-40f8-ae42-07c07127b9e1)
+
+  - Продажи по штатам
+    
+    ![image](https://github.com/user-attachments/assets/b4e9e4c7-946c-4b41-8dfe-f7da8f6c0430)
+    
+  - по сегменту покупателей и динамика продаж категорий
+
+    ![image](https://github.com/user-attachments/assets/803d1f68-3630-4c60-b404-f2eaa9b99126)
+
+
+
+  
 
    
 
