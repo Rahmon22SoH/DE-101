@@ -49,6 +49,7 @@
 
     ![image](https://github.com/user-attachments/assets/803d1f68-3630-4c60-b404-f2eaa9b99126)
 
+[Скачать файл](https://github.com/Rahmon22SoH/DE-101/blob/master/Module1/Sample%20-%20Superstore.xlsx)
 
 
   
